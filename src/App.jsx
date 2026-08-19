@@ -48,7 +48,7 @@ const layanan = [
   },
 ];
 
-const nomorWhatsApp = "6289530495636";
+const nomorWhatsApp = "628115555379";
 
 function App() {
   return (
